@@ -1,0 +1,1 @@
+ C:\\Users\\flori\\Desktop\\fluttersdk\\meteoapp\\meteo\\.dart_tool\\flutter_build\\53e0c3e81d92e0d30e17767a7826647f\\native_assets.yaml: 
